@@ -1,10 +1,8 @@
 #%%
-import tensorflow as tf
-import keras
-import keras.utils
-from keras.utils import to_categorical
 import numpy as np
 import pandas as pd
+import tensorflow as tf
+from tensorflow.keras.utils import to_categorical
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OneHotEncoder
 
