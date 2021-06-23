@@ -1,3 +1,4 @@
 # Demo
 
-Short Demo of Data Science Project without tuned models.
+**This repository serves as a project demo for my references. At points where no practical implementation is described for restrictive reasons, the theoretical (scientific) basis is emphasized.**
+
