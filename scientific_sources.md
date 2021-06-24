@@ -1,5 +1,6 @@
 # Scientific sources
 
+
 <dl>
   
 <dt>(Jaquart et al, 2021)</dt>
@@ -12,11 +13,22 @@
 <dd>Mudassir, M., Bennbaia, S., Unal, D., & Hammoudeh, M. (2020). Time-series forecasting of Bitcoin prices using high-dimensional features: a machine learning approach. Neural Computing and Applications, 1-15.</dd>
   
 <dt>(Molnar, 2020)</dt>
-<dd>Molnar, C. (2020). Interpretable machine learning. Lulu. com.     </dd>
+<dd>Molnar, C. (2020). Interpretable machine learning. Lulu. com.</dd>
    
 <dt>(Diebold and Mariano, 2002)</dt>
 <dd>Diebold, F. X., & Mariano, R. S. (2002). Comparing predictive accuracy. Journal of Business & economic statistics, 20(1), 134-144.</dd>
    
 </dl>
+
+*****
+<dl>
+  
+<dt>(<a href="https://github.com/Alro10/deep-learning-time-series">github.com/Alro10/deep-learning-time-series, 2021</a>)</dt>
+<dd>Overview of state of the art papers focus on deep learning and resources, code and experiments using deep learning for time series forecasting</dd>
+    
+</dl>
+
+
+
 
 
